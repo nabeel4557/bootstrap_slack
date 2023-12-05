@@ -1,0 +1,68 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box;
+    list-style: none;
+
+
+}
+a{
+    text-decoration: none;
+}
+#main{
+    background-color: #4a154b;
+} 
+#main video{
+}
+#main button span{
+    width: 50px;
+    height: 50px;
+} 
+#main button img{
+    width: 35px;
+} 
+nav{
+    background-color: #4a154b;
+}
+nav a img{
+    width:200px;
+    height: 75;
+}
+section#logos{
+    background: #f4ede4
+}
+section#features{
+    background: #f4ede4
+}
+#testimonial div.left {
+border-top-right-radius: 300px;
+border-bottom-right-radius: 300px;
+overflow: hidden;
+height: 300px;
+
+margin: 0 !important;
+padding: 0 !important;
+}
+
+.way_to_work{
+    background: #f4ede4;
+
+
+}
+#way_to_work div.bottom div.item {
+    overflow: hidden;
+    height: 400px;
+
+}
+button.one{
+    background-color: #4a154b;
+}
+button.two{
+    border-color: #4a154b;
+}
+span.perc{
+    color: #4a154b !important;
+    font-size: 48px;
+    display: block;
+}
